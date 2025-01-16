@@ -17,6 +17,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab8", "Lab8", "{F1FB77EE-4
 		IEventRepository.cs = IEventRepository.cs
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab9", "Lab9", "{5EFA6BB9-210E-4C02-9780-FFBFDA67A8B6}"
+	ProjectSection(SolutionItems) = preProject
+		EventNotificationService.cs = EventNotificationService.cs
+		EventNotificationServiceTests.cs = EventNotificationServiceTests.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
